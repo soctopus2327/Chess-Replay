@@ -1,0 +1,81 @@
+[Event "Vienna"]
+[Site "Vienna AUH"]
+[Date "1872.??.??"]
+[Round "?"]
+[White "Carl Hamppe"]
+[Black "Philipp Meitner"]
+[Result "1/2-1/2"]
+[EventDate "?"]
+[ECO "C25"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "36"]
+[Link "https://www.chess.com/blog/SamCopeland/the-most-amazing-chess-draw-ever-played-best-of-the-pre-1900s-hamppe-vs-meitner-1872"]
+
+1. e4 e5 2. Nc3 Bc5 3. Na4 $6 {Is this good  $2 No. But if it weren't for Black's
+response, it would not be so bad to chase the bishop and try to bring the knight
+back later. See Nadanian's Na4 in the Gruenfeld for another example.} 3...
+Bxf2+ $3 {Boom  $1 Black spots the flaw in White's tempo-losing knight hop to the
+rim and initiates an incredible attack though White also has some exciting
+opportunities.} 4. Kxf2 Qh4+ 5. Ke3 (5. g3 $1 Qxe4 {attacks both the knight on a4
+and rook on h1. One would think that this just loses for White, but actually
+White can now sacrifice the rook for massive compensation.} 6. Qe2 Qxh1 (6...
+Qxa4 7. Qxe5+ Ne7 8. Qxg7 $14) 7. Qxe5+ Kf8 8. Qxc7 $13) 5... Qf4+ 6. Kd3 d5
+{White's king is sweating buckets here.} 7. Kc3 $6 (7. exd5 $4 Qxa4 $19) (7. Qe1 $1
+Nf6 $15 {Black's attack provides more than enough compensation, but the battle
+continues.} (7... dxe4+ $2 8. Kc3 $16 {Black has won a pawn, but the doubled pawns
+stop the queen from attacking the white king.} (8. Qxe4 $4 Bf5 $19))) 7... Qxe4 $2
+(7... d4+ $1 8. Kd3 (8. Kb3 Qxe4 $17 {is White's best try, but he has lost e4 for
+naught.}) 8... f5 $19 {is likely to win.}) 8. Kb3 $2 {White's king is trying to
+flee as fast as possible, but he is neglecting chances to develop other pieces.}
+(8. d4 $1 {Striking in the middle to develop the pieces and defend the king with
+their might was by far the best.} 8... exd4+ 9. Qxd4 Qe1+ 10. Bd2 $3 {The rook
+sacrifices leads to a crushing attack. White's king is uncastled on c3, but it
+is the black king in mortal danger.} 10... Qxa1 11. Nf3 $18 {White threatens Qxg7
+and Bb5+, and Black is lacking a good response.}) 8... Na6 $2 {The knight supports
+the mate threat ...Qb4, but the more conventional central development was
+better.} (8... Nc6 $17) (8... d4 $17) 9. a3 $5 {intending simply Nc3 and Ka2, and
+White is just winning  $1} (9. d4 $1 {Splitting the board and cutting off the queen
+on e4 and freeing the bishop d2 before trying to play a3 and tuck in the king on
+a2 is a really effective solution.} 9... exd4 10. a3 $1 $18 {after Ka2, the white
+king will be safe and Black lacks counterplay.}) 9... Qxa4+ $3 {AMAZING  $1
+Technically, this loses in one and only one complex variation, but White's path
+is very difficult, and the white king is very close to being checkmated. With
+one misstep, it will be checkmated.} 10. Kxa4 (10. Ka2 $19 {Black just be up two
+pawns with a huge center, safer king, etc.}) 10... Nc5+ 11. Kb4 $2 {White allows
+...a5+  $1 with tempo, and Black's mating net is so powerful that White is the one
+who will need to be brilliant to hold a draw by perpetual.} (11. Kb5 $1 {Only this
+move wins.} 11... Ne7 $5 {This is Black's most dangerous try. White must find
+12.c4  $1, and Black will still have some play.} (11... b6 {...Bd7 ...a5 and
+...d4# is a potent idea, but White has one winning defense involving returning
+the queen.} 12. d4 $1 exd4 13. Qxd4 Ne7 14. Qxc5 $1 $18 {And with the return of the
+queen and the elimination of the c5-knight, White is just up a piece and
+completely safe.}) (11... a5 12. b4 $1 $18 {Breaks up the attack, and White should
+win.} (12. Kxc5 $2 Ne7 {threatens ...b6+ and ...Bd7#, but...} 13. Bb5+ Kd8 14.
+Bc6 $3 {Only this idea which also appears in the game is enough to save the game
+and even win for White. The difference in the game is that Black will get to
+play ...a5+ with tempo.} 14... b6+ 15. Kb5 Nxc6 16. Kxc6 Bb7+ $12 {is the game
+line.})) 12. c4 $1 {This seems to be White's one narrow path to a likely winning
+position.} (12. Kxc5 $2 a5 13. Bb5+ Kd8 14. Bc6 $3 b6+ 15. Kb5 Nxc6 16. Kxc6 Bb7+ $12
+{is the game line.}) 12... d4 13. Kxc5 a5 14. Qa4+ Kd8 15. Qxa5 Rxa5+ 16. Kb4
+Nc6+ 17. Kb3 e4) (11. Ka5 $4 b6+ 12. Kb5 Ne7 {is simply mating with the idea of
+...Ba6+ Kb4 Nc6+ Kc3 and d4 mates.}) 11... a5+ $3 {The knight is sacrified, but
+Black takes control of the dark squares with the pawns, and will attempt to
+checkmate on the light squares with the bishop.} 12. Kxc5 (12. Kc3 $6 d4+ 13. Kc4
+b6 $17 {White will need to return the queen (e.g. Qf3 Be6+ Qd5 to survive.}) 12...
+Ne7 $1 {The simple threat is ...b6+ and ...Bd7 checkmate. How can White survive  $2}
+13. Bb5+ Kd8 14. Bc6 $3 {This is the way  $1 White gets his first chance to display
+his own brilliance and proves up to the task. This move disrupts Black's
+coordination, providing cover for the white king to escape on the light squares,
+and now the onus is again on Black to be brilliant to keep the attack going.}
+14... b6+ 15. Kb5 Nxc6 {intending ...Nd4+ (even if a sacrifice) and ...Bd7#.
+This would just force checkmate so the knight must be captured.} 16. Kxc6 Bb7+ $3
+{Amazing  $1 Black ones again finds an essential and spectacular idea. The bishop
+cannot be captured due to checkmate so White must flee. Black though is down so
+much material that the White king must stay in check or White will consolidate
+and win. Thus, the result is a draw.} 17. Kb5 (17. Kxb7 $4 Kd7 18. Qg4+ {It's
+kind of amazing that Black can allow the queen to activate like this with check,
+and it doesn't help White at all.} 18... Kd6 {and ...Rhb8 will be mate.}) 17...
+Ba6+ 18. Kc6 (18. Ka4 $4 Bc4 $1 {...b5 is checkmate on the next move.}) 18... Bb7+
+{I hope you will agree, this spectacular game deserves to be called the Immortal
+Draw.} 1/2-1/2
